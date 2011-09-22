@@ -1,4 +1,4 @@
-## Don't use this.  Please go to [https://github.com/flightaware/flightxml2-client-ruby[Flightaware]]'s repo for maintained code.
+## Don't use this.  Please go to https://github.com/flightaware/flightxml2-client-ruby for maintained code.
 
 ## FlightXML
 
